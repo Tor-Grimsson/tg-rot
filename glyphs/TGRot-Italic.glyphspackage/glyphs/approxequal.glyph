@@ -1,0 +1,332 @@
+{
+glyphname = approxequal;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(681,665,o),
+(756,767,o),
+(756,925,c),
+(659,925,l),
+(659,808,o),
+(617,737,o),
+(559,737,cs),
+(464,737,o),
+(407,945,o),
+(255,945,cs),
+(149,945,o),
+(76,846,o),
+(76,685,c),
+(173,685,l),
+(173,802,o),
+(214,868,o),
+(272,868,cs),
+(373,868,o),
+(427,665,o),
+(575,665,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(681,354,o),
+(756,456,o),
+(756,614,c),
+(659,614,l),
+(659,497,o),
+(617,426,o),
+(559,426,cs),
+(464,426,o),
+(407,634,o),
+(255,634,cs),
+(149,634,o),
+(76,535,o),
+(76,374,c),
+(173,374,l),
+(173,491,o),
+(214,557,o),
+(272,557,cs),
+(373,557,o),
+(427,354,o),
+(575,354,cs)
+);
+}
+);
+};
+layerId = "B394119F-0380-4E62-B43C-4CB2906934C5";
+shapes = (
+{
+pos = (26,152);
+ref = asciitilde;
+},
+{
+pos = (26,-152);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 941;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (26,152);
+ref = asciitilde;
+},
+{
+pos = (26,-152);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1003;
+},
+{
+layerId = "C9E3A9DE-713C-4328-9566-1098C9C14357";
+shapes = (
+{
+pos = (35,200);
+ref = asciitilde;
+},
+{
+pos = (35,-208);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1087;
+},
+{
+layerId = "5DCFE7BF-F310-4F67-AB4F-273F63FF7CA7";
+shapes = (
+{
+pos = (35,200);
+ref = asciitilde;
+},
+{
+pos = (35,-208);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1139;
+},
+{
+layerId = "D2AE7E77-59DC-4ED7-8B28-3C302D90EF1D";
+shapes = (
+{
+pos = (29,167);
+ref = asciitilde;
+},
+{
+pos = (29,-170);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1044;
+},
+{
+layerId = "EE956476-7230-4E87-8938-22ED0A4A25FD";
+shapes = (
+{
+pos = (29,167);
+ref = asciitilde;
+},
+{
+pos = (29,-170);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 992;
+},
+{
+layerId = "FB72AECE-4F8A-40C2-BAB0-6A49FA3DAB50";
+shapes = (
+{
+pos = (29,167);
+ref = asciitilde;
+},
+{
+pos = (29,-170);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1052;
+},
+{
+layerId = "49C5594D-3AC5-4BE3-8FE6-2E0AB5740DB9";
+shapes = (
+{
+pos = (26,152);
+ref = asciitilde;
+},
+{
+pos = (26,-152);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 995;
+},
+{
+layerId = "6830303A-C8AF-49FE-BBDE-D215EFBB57BB";
+shapes = (
+{
+pos = (35,200);
+ref = asciitilde;
+},
+{
+pos = (35,-208);
+ref = asciitilde;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1131;
+}
+);
+metricLeft = plus;
+metricRight = "=|";
+unicode = 8776;
+}
