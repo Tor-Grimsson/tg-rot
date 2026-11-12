@@ -254,6 +254,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = "Thin Condensed";
@@ -396,6 +399,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = "Regular Condensed";
@@ -515,6 +521,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = "Black Condensed";
@@ -656,6 +665,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = Thin;
@@ -790,6 +802,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = Regular;
@@ -908,6 +923,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = Black;
@@ -1028,6 +1046,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = "Thin Extended";
@@ -1155,6 +1176,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = "Regular Extended";
@@ -1275,6 +1299,9 @@ over = -24;
 pos = -360;
 },
 {
+},
+{
+pos = -341;
 }
 );
 name = "Black Extended";
@@ -1300,6 +1327,17 @@ value = TGRotVF;
 }
 );
 name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "TG Rot Variable";
+}
+);
+}
+);
 type = variable;
 },
 {
@@ -13205,6 +13243,10 @@ name = "zone-1";
 },
 {
 type = "italic angle";
+},
+{
+filter = "case == 2";
+name = "Marks below";
 }
 );
 properties = (
@@ -13238,6 +13280,10 @@ language = dflt;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
 }
 );
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;

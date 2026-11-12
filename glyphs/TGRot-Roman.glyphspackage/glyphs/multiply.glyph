@@ -6,7 +6,7 @@ layerId = "B394119F-0380-4E62-B43C-4CB2906934C5";
 shapes = (
 {
 angle = -45;
-pos = (-486,569);
+pos = (-505,569);
 ref = plus;
 }
 );
@@ -33,7 +33,7 @@ layerId = m005;
 shapes = (
 {
 angle = -45;
-pos = (-493,569);
+pos = (-490,569);
 ref = plus;
 }
 );
@@ -60,7 +60,7 @@ layerId = "C9E3A9DE-713C-4328-9566-1098C9C14357";
 shapes = (
 {
 angle = -45;
-pos = (-396,569);
+pos = (-419,569);
 ref = plus;
 }
 );
@@ -87,7 +87,7 @@ layerId = "5DCFE7BF-F310-4F67-AB4F-273F63FF7CA7";
 shapes = (
 {
 angle = -45;
-pos = (-393,569);
+pos = (-397,569);
 ref = plus;
 }
 );
@@ -107,7 +107,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1044;
+width = 1045;
 },
 {
 layerId = "D2AE7E77-59DC-4ED7-8B28-3C302D90EF1D";
@@ -141,7 +141,7 @@ layerId = "EE956476-7230-4E87-8938-22ED0A4A25FD";
 shapes = (
 {
 angle = -45;
-pos = (-459,569);
+pos = (-477,569);
 ref = plus;
 }
 );
@@ -168,7 +168,7 @@ layerId = "FB72AECE-4F8A-40C2-BAB0-6A49FA3DAB50";
 shapes = (
 {
 angle = -45;
-pos = (-461,569);
+pos = (-458,569);
 ref = plus;
 }
 );
@@ -222,7 +222,7 @@ layerId = "6830303A-C8AF-49FE-BBDE-D215EFBB57BB";
 shapes = (
 {
 angle = -45;
-pos = (-400,569);
+pos = (-407,569);
 ref = plus;
 }
 );

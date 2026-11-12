@@ -238,7 +238,5 @@ com.hugojourdan.ColorFlow = {
 width = 855;
 }
 );
-metricLeft = period;
-metricRight = period;
 unicode = 8221;
 }

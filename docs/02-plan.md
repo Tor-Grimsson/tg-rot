@@ -25,7 +25,7 @@ related:
 # Plan — TG Rót
 
 **Raised:** 2026-11-12, from [[01-evaluation|the 2026-11-12 evaluation]]. Follows `docs/operations/02-family-pipeline.md` step 2. Point verbatim, 2026-11-12: *"we are redoing rot, like every other typeface we follow the playbook."*
-**Status:** approved 2026-11-12. W1–W7 built and saved 2026-11-12. Exported (both VFs + WOFF2), collected, proofs printed, family files in place. Next: git + GitHub (his commands).
+**Status:** approved 2026-11-12. W1–W7 built and saved 2026-11-12. Exported (both VFs + WOFF2), collected, proofs printed, family files in place. On GitHub since 2026-11-12: github.com/Tor-Grimsson/tg-rot.
 **Laws carried:** the work is done through the Glyphs MCP on `glyphs/TGRot-Roman.glyphspackage`. Nothing is saved without his word, and every edit is previewed first. From W1 on there are nine masters (3 × 3), edited together. Kerning is measured from the font's own outlines, never copied (ARCHITECTURE §7). His drawings are never replaced. Any change to an outline is checked in a render before it is shown.
 **How a phase closes:** the measurable acceptance line comes first and is read back through the MCP, or from the exported font with fontTools. Then he looks at the result in Glyphs.
 
@@ -108,3 +108,12 @@ related:
 - `proof-family` reprinted with a full page per named style (charset, kerning, spacing, text), masters marked: 95 pages. The first print checked charset, kerning and spacing only at the masters.
 
 Open items: [[OPEN|OPEN.md]].
+
+## Second pass — 2026-11-12 (OPEN.md worked through)
+
+- **Italic ð**: checked, not a double slant — every Italic master is the Roman ð slanted once by 10° (within 0.5 unit) and the exports match. The tall hook and high bar overhang the advance by 90–130 units once slanted; a drawing call, kept in `OPEN.md`.
+- **Licence URL** set in both sources (`https://openfontlicense.org`, via `font.setProperty_value_languageTag_('licenseURL', …)`); it now ships in name ID 14.
+- **Update Metrics** (playbook § 3): Roman — 21 layers moved to their keys (« × ± left sidebearings; ± up to 32 narrower in the condensed widths). Italic — colon, semicolon, periodcentered, quoteright, quotedblright were keyed to `period` on both sides, which an italic can't honour (the slant shifts top-sitting marks against a baseline period: syncing would have widened : and ; by up to 149). Those five keys were removed in the Italic only; spacing unchanged, zero out of sync.
+- **Marks below** metric (−341, lowercase) added to every master.
+- **Exported** both VFs + 70 statics from a script (`instance.generate`), WOFF2, collected; four family PDFs reprinted. Old sets in `_tmp/2026-11-12-export-before-licence-url/` and `_tmp/2026-11-12-proofs-before-licence-url/`.
+- **Cedilla** rescaled evenly in every master to hang +10 → −341 (*Marks below*); bottom anchors of C c moved to the bowl's lowest point (0–15 units). Update Metrics (nothing moved), saved, VFs + 70 statics + WOFF2 re-exported, four PDFs, collected. Old set in `_tmp/2026-11-12-export-before-cedilla/`.

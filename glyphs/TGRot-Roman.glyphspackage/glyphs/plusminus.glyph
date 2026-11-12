@@ -7,14 +7,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(107,304,l),
-(907,304,l),
-(907,392,l),
-(107,392,l)
+(80,304,l),
+(880,304,l),
+(880,392,l),
+(80,392,l)
 );
 },
 {
-pos = (27,121);
+pos = (0,121);
 ref = plus;
 scale = (1,0.9);
 }
@@ -35,7 +35,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 960;
+width = 933;
 },
 {
 layerId = m005;
@@ -71,7 +71,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 976;
+width = 972;
 },
 {
 layerId = "C9E3A9DE-713C-4328-9566-1098C9C14357";
@@ -79,14 +79,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(112,228,l),
-(1072,228,l),
-(1072,476,l),
-(112,476,l)
+(80,228,l),
+(1040,228,l),
+(1040,476,l),
+(80,476,l)
 );
 },
 {
-pos = (32,302);
+pos = (0,302);
 ref = plus;
 scale = (1,0.9);
 }
@@ -107,7 +107,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1120;
+width = 1088;
 },
 {
 layerId = "5DCFE7BF-F310-4F67-AB4F-273F63FF7CA7";
@@ -115,14 +115,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(86,188,l),
-(1046,188,l),
-(1046,476,l),
-(86,476,l)
+(80,188,l),
+(1040,188,l),
+(1040,476,l),
+(80,476,l)
 );
 },
 {
-pos = (6,302);
+pos = (0,302);
 ref = plus;
 scale = (1,0.9);
 }
@@ -143,7 +143,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1120;
+width = 1114;
 },
 {
 layerId = "D2AE7E77-59DC-4ED7-8B28-3C302D90EF1D";
@@ -187,14 +187,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(106,280,l),
-(956,280,l),
-(956,418,l),
-(106,418,l)
+(80,280,l),
+(930,280,l),
+(930,418,l),
+(80,418,l)
 );
 },
 {
-pos = (26,178);
+pos = (0,178);
 ref = plus;
 scale = (1,0.9);
 }
@@ -215,7 +215,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1010;
+width = 984;
 },
 {
 layerId = "FB72AECE-4F8A-40C2-BAB0-6A49FA3DAB50";
@@ -251,7 +251,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1026;
+width = 1022;
 },
 {
 layerId = "49C5594D-3AC5-4BE3-8FE6-2E0AB5740DB9";
@@ -295,14 +295,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(90,215,l),
-(1050,215,l),
-(1050,476,l),
-(90,476,l)
+(80,215,l),
+(1040,215,l),
+(1040,476,l),
+(80,476,l)
 );
 },
 {
-pos = (10,302);
+pos = (0,302);
 ref = plus;
 scale = (1,0.9);
 }
@@ -323,7 +323,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1120;
+width = 1110;
 }
 );
 metricLeft = plus;
